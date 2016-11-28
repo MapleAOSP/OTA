@@ -31,7 +31,7 @@
   <WebsiteURL>https://plus.google.com/communities/113773214048068116781</WebsiteURL>
   <!-- Your Donate URL -->
   <!-- OPTIONAL: Enter <DonateURL nil="true" /> to hide this -->
-  <DonateURL nil="true />
+  <DonateURL nil="true" />
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>### Changelog for 3.0
