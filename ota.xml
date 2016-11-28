@@ -13,16 +13,16 @@
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-  <DirectUrl>DIRECT LINKS HERE</DirectUrl>
-  <HttpUrl>HTTP WEBSITE LINK HERE</HttpUrl>
+  <DirectUrl>https://github.com/MapleAOSP/OTA/releases/download/test/MapleAOSP-7.1-Release-3.0_20161128.zip</DirectUrl>
+  <HttpUrl>none</HttpUrl>
   <!-- What version are you issuing? -->
   <Android>7.1</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
   <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking -->
-  <CheckMD5>MD5 HERE</CheckMD5>
+  <CheckMD5>905a4c31e53655fc3d4e599ccb470b70</CheckMD5>
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
-  <FileSize type="integer">420147739</FileSize>
+  <FileSize type="integer">347801997</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
   <Developer>frap129</Developer>
